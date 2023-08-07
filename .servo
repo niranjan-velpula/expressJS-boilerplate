@@ -1,0 +1,16 @@
+{
+  "platform": "nodejs",
+  "tags": {
+    "default": {
+      "owner": "mg-databusters@dowjones.com",
+      "bu": "djcs",
+      "product": "mg",
+      "component": "backend",
+      "environment": "dev",
+      "appid": "djcs_backend_lsa_metadata_tagging_mg"
+    },
+    "prod": {
+      "environment": "prod"
+    }
+  }
+}
